@@ -1,0 +1,1 @@
+Esercizio svolto, messaggio di errore quando si prova a svolgere la parte numero 3, i vari primitive non sembrano compatibili.
